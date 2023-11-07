@@ -35,7 +35,7 @@ A ```best_model``` file can be found in the project root folder. It is an approp
 
 ![Untitled (1)](https://github.com/Henrique-Bidarte/dino-ai/assets/134324510/8464670b-a154-4cfa-ae4e-1a2648e78073)
 
-Unfortunately, the project wasn't completely successful. While the dinossaur does not take actions randomly, is not very smart...
+Unfortunately, the project wasn't completely successful. While the dinossaur does not take actions randomly, it is not very smart...
 
 This lack of efficiency in converging the values ​​might be attributed to an insufficient number of trained episodes or to a defect in the implementation of the algorithm. Regardless, it was a fun project and a good first experience.
 
